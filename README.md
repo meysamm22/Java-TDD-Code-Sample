@@ -1,5 +1,3 @@
-# CarePay Java Assignment
-
 ## Introduction
 This assignment consists of two parts:
 1) Write a SpringBoot/Java restful backend;
